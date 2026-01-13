@@ -1175,3 +1175,69 @@ https://gemini.google.com/share/04bf908bb08b
 ```
 
 https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-17-profile--avatar---hyper-detailed-prone-selfie-with-anatomical-realism
+
+# Profile / Avatar - Ultra Photorealistic Beach Selfie Prompt (Golden Hour)
+
+https://gemini.google.com/share/12721245ec9f
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/1d285970-d39d-4cc6-b2f1-82b3ac39ba2b" />
+
+```json
+{
+  "prompt_type": "Ultra Photorealistic Beach Selfie",
+  "subject": {
+    "demographics": "Young woman",
+    "appearance": {
+      "skin": "Sun-kissed complexion, realistic skin texture with visible pores and light freckles, glowing warm undertone",
+      "hair": "Long, voluminous {argument name="hair color" default="reddish-brown/auburn"} hair, swept to the left side, slightly messy beach texture, sunglasses resting on top of the head",
+      "face": "Bright happy expression, wide smile showing teeth, green eyes with winged eyeliner, sharp eyebrows",
+      "details": "Golden starfish-shaped dangling earring visible on the left ear"
+    }
+  },
+  "fashion": {
+    "swimwear": {
+      "item": "Black bikini set",
+      "top": "Wrap-style halter top with thin straps and crossover front detail",
+      "bottom": "Matching black bikini bottoms with side ties (strings visible at hip)"
+    },
+    "accessories": [
+      "Black plastic 'tattoo' style choker necklace",
+      "Black sunglasses (perched on head)",
+      "Golden dangling earring"
+    ]
+  },
+  "pose": {
+    "type": "High-angle selfie",
+    "perspective": "Point-of-view (POV) shot looking down",
+    "body_position": "Kneeling on a beach towel, body angled slightly, one arm extended holding the camera/phone",
+    "gaze": "Direct eye contact with the lens"
+  },
+  "environment": {
+    "location": "Sandy beach",
+    "ground": "Textured sand with visible footprints and uneven surface",
+    "props": "Striped beach towel (pattern of thin blue, white, and peach/orange stripes) spread beneath the subject",
+    "background": "Soft focus beach sand extending back, hints of green coastal vegetation/dunes in the upper left, distant leg of a bystander visible in the far background"
+  },
+  "lighting": {
+    "type": "Golden Hour / Natural Sunlight",
+    "quality": "Warm, direct sunlight creating high contrast",
+    "shadows": "Hard shadow of the subject's arm and phone cast across her chest and torso, long shadows on the sand",
+    "highlights": "Bright sun highlights on the left shoulder, forehead, and cheek"
+  },
+  "technical_specifications": {
+    "resolution": "4k HD",
+    "quality_tags": [
+      "8k resolution",
+      "Raw photo",
+      "Photorealistic",
+      "Hyper-detailed skin texture",
+      "Sharp focus on face",
+      "Smartphone photography aesthetic",
+      "High dynamic range (HDR)",
+      "Realistic lighting"
+    ]
+  }
+}
+```
+
+https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-18-profile--avatar---ultra-photorealistic-beach-selfie-prompt-golden-hour
