@@ -1579,3 +1579,50 @@ https://gemini.google.com/share/55b335a31b40
 ```
 
 https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-24-social-media-post---structured-json-prompt-for-luxury-couple-editorial-campaign
+
+# Social Media Post - Y2K K-Pop Digital Scrapbook Collage
+
+https://gemini.google.com/share/024a0af6a012
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/95f16c34-0bc1-435a-bed7-1a52d85fe267" />
+
+```json
+{
+  "art_style_description": {
+    "type": "Digital Scrapbook / Fan-Edit Collage.",
+    "aesthetic": "Y2K, Coquette, K-pop Idol Fan Art.",
+    "visual_structure": "Multiple photographic cutouts of the same subject arranged in a chaotic but cohesive layout on top of a vintage textured background. Each cutout has a thick white stroke/outline to resemble a sticker."
+  },
+  "subject_details": {
+    "demographics": "Young Asian woman (K-pop idol aesthetic), fair skin, delicate features.",
+    "hair": "Long, voluminous, dark wavy hair with air bangs. In one panel, she wears a small white ribbon clip.",
+    "outfit": "Black sequined/embellished crop top (bralette style), dark denim jeans.",
+    "makeup": "Peach-toned blush, glossy lips, soft eyeliner."
+  },
+  "pose_breakdown_panels": {
+    "panel_1_top_center": "Portrait shot. Subject looking straight ahead/slightly down with hand in hair, elbows raised. Background shows a blurred cityscape.",
+    "panel_2_bottom_right": "Seated/Reclining pose. Subject leaning back, one arm supporting weight, looking coolly at the camera. Wearing jeans.",
+    "panel_3_middle_right": "Over-the-shoulder shot. Subject looking back at the camera with a soft gaze, arm raised touching head.",
+    "panel_4_bottom_left": "Close-up portrait. Subject looking to the side, wearing a white bow hair clip.",
+    "panel_5_top_left": "Bust-up shot. Subject gazing off-camera with a dreamy expression."
+  },
+  "graphic_elements_and_overlays": {
+    "background_texture": "Vintage newspaper print text (sepia/beige toned).",
+    "stickers": {
+      "text": "Ransom-note style text blocks reading '{argument name=\"text block 1\" default=\"iqrasaifiii\"}', '{argument name=\"text block 2\" default=\"i swear she's an angel\"}', and '{argument name=\"text block 3\" default=\"beyoutiful\"}'.",
+      "objects": "A brown plush teddy bear sticker in the bottom left corner.",
+      "decor": "White daisy flower graphics, jagged torn paper edges."
+    }
+  },
+  "camera_technical_values": {
+    "source_photo_style": "High-end fashion editorial photography.",
+    "lens": "85mm (Portrait telephoto).",
+    "lighting": "Natural Window Light (Soft, directional sunlight coming from the side).",
+    "color_grading": "Slightly desaturated source photos contrasted against the warm beige newspaper background.",
+    "resolution": "High fidelity cutouts."
+  },
+  "composition": "Overlapping layers. The center and right photos are larger, while smaller details fill the corners."
+}
+```
+
+https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-26-social-media-post---y2k-k-pop-digital-scrapbook-collage
