@@ -29,6 +29,95 @@ https://gemini.google.com/share/ecf7aa43fd12
 
 https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-6-profile--avatar---ultra-photorealistic-candid-smartphone-selfie-prompt
 
+# Detailed mirror-selfie otaku room scene
+
+https://gemini.google.com/share/c2a31ef9a3cf
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/36eae638-3b06-422c-a251-1305a001baa9" />
+
+```json
+{
+  "scene": "Mirror selfie in an otaku-style computer corner, blue color tone.",
+  "subject": {
+    "gender_expression": "female",
+    "age": "around 25",
+    "ethnicity": "East Asian",
+    "body_type": "slim, with a defined waist; natural body proportions",
+    "skin_tone": "light neutral tone",
+    "hairstyle": {
+      "length": "waist-length hair",
+      "style": "straight with slightly curled ends",
+      "color": "medium brown"
+    },
+    "pose": {
+      "stance": "standing in a slight contrapposto pose",
+      "right_hand": "holding a smartphone in front of her face (identity hidden)",
+      "left_arm": "naturally hanging down alongside the torso",
+      "torso": "body leaning slightly back; waist and abdomen exposed"
+    },
+    "clothing": {
+      "top": "light blue cropped knit cardigan, top two buttons fastened; a blue French-style bra faintly visible",
+      "bottom": "denim ultra-short shorts, with a blue satin ribbon bow on each side of the hips",
+      "socks": "blue and white horizontal striped over-the-knee socks",
+      "accessory": "a blue cute mascot phone case"
+    }
+  },
+  "environment": {
+    "description": "bedroom computer corner seen through a wall-mounted mirror",
+    "furnishings": [
+      "White desk",
+      "Single monitor showing a soft blue wallpaper (no readable text)",
+      "Mechanical keyboard with white keycaps on a blue desk mat",
+      "Mouse on a small blue mouse pad",
+      "PC tower on the right side with blue case lighting",
+      "Three anime figures on or near the PC tower",
+      "A poster of a pagoda on the wall",
+      "Cat-shaped desk lamp with blue accents",
+      "A transparent glass of water",
+      "A tall green leafy plant by the window (on the left side of the frame)"
+    ],
+    "color_replacement": "replace all originally pink elements (clothes and room decor) with blue tones (baby blue to sky blue/periwinkle blue)."
+  },
+  "lighting": {
+    "light_source": "daylight coming from a large window on the left side of the camera, through sheer curtains",
+    "light_quality": "soft, diffused light",
+    "white_balance_k": 5200
+  },
+  "camera": {
+    "mode": "smartphone rear camera shooting via the mirror (no portrait/bokeh mode)",
+    "equivalent_focal_length_mm": 26,
+    "distances_m": {
+      "subject_to_mirror": 0.6,
+      "camera_to_mirror": 0.5
+    },
+    "exposure": {
+      "aperture_f": 1.8,
+      "iso": 100,
+      "shutter_speed_s": 0.01,
+      "exposure_compensation_ev": -0.3
+    },
+    "focus": "focus on the torso and shorts in the mirror image",
+    "depth_of_field": "natural smartphone deep depth of field; background clearly visible with no artificial blur",
+    "composition": {
+      "aspect_ratio": "1:1",
+      "crop": "from the top of the head to mid-thigh; include the desk, monitor, PC tower, and plant in the frame",
+      "angle": "slightly high angle from the mirror’s point of view",
+      "composition_note": "keep the subject centered; to avoid wide-angle edge distortion, have her stand a bit further away and crop to a square later."
+    }
+  },
+  "negative_prompts": [
+    "Any appearance of pink/magenta anywhere",
+    "Beauty filters/over-smoothed skin; poreless skin look",
+    "Exaggerated or distorted anatomy",
+    "NSFW, see-through fabrics, wardrobe malfunctions",
+    "Logos, brand names, or readable user interface text",
+    "Fake portrait-mode blur, CGI/illustration feel"
+  ]
+}
+```
+
+https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-9-detailed-mirror-selfie-otaku-room-scene
+
 
 # 2000s Mirror Selfie
 
@@ -587,95 +676,6 @@ https://gemini.google.com/share/ab6875a571cc
 ```
 
 https://github.com/ZeroLu/awesome-nanobanana-pro?tab=readme-ov-file#229-canon-ixus-aesthetic-portrait
-
-# Detailed mirror-selfie otaku room scene
-
-https://gemini.google.com/share/c2a31ef9a3cf
-
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/36eae638-3b06-422c-a251-1305a001baa9" />
-
-```json
-{
-  "scene": "Mirror selfie in an otaku-style computer corner, blue color tone.",
-  "subject": {
-    "gender_expression": "female",
-    "age": "around 25",
-    "ethnicity": "East Asian",
-    "body_type": "slim, with a defined waist; natural body proportions",
-    "skin_tone": "light neutral tone",
-    "hairstyle": {
-      "length": "waist-length hair",
-      "style": "straight with slightly curled ends",
-      "color": "medium brown"
-    },
-    "pose": {
-      "stance": "standing in a slight contrapposto pose",
-      "right_hand": "holding a smartphone in front of her face (identity hidden)",
-      "left_arm": "naturally hanging down alongside the torso",
-      "torso": "body leaning slightly back; waist and abdomen exposed"
-    },
-    "clothing": {
-      "top": "light blue cropped knit cardigan, top two buttons fastened; a blue French-style bra faintly visible",
-      "bottom": "denim ultra-short shorts, with a blue satin ribbon bow on each side of the hips",
-      "socks": "blue and white horizontal striped over-the-knee socks",
-      "accessory": "a blue cute mascot phone case"
-    }
-  },
-  "environment": {
-    "description": "bedroom computer corner seen through a wall-mounted mirror",
-    "furnishings": [
-      "White desk",
-      "Single monitor showing a soft blue wallpaper (no readable text)",
-      "Mechanical keyboard with white keycaps on a blue desk mat",
-      "Mouse on a small blue mouse pad",
-      "PC tower on the right side with blue case lighting",
-      "Three anime figures on or near the PC tower",
-      "A poster of a pagoda on the wall",
-      "Cat-shaped desk lamp with blue accents",
-      "A transparent glass of water",
-      "A tall green leafy plant by the window (on the left side of the frame)"
-    ],
-    "color_replacement": "replace all originally pink elements (clothes and room decor) with blue tones (baby blue to sky blue/periwinkle blue)."
-  },
-  "lighting": {
-    "light_source": "daylight coming from a large window on the left side of the camera, through sheer curtains",
-    "light_quality": "soft, diffused light",
-    "white_balance_k": 5200
-  },
-  "camera": {
-    "mode": "smartphone rear camera shooting via the mirror (no portrait/bokeh mode)",
-    "equivalent_focal_length_mm": 26,
-    "distances_m": {
-      "subject_to_mirror": 0.6,
-      "camera_to_mirror": 0.5
-    },
-    "exposure": {
-      "aperture_f": 1.8,
-      "iso": 100,
-      "shutter_speed_s": 0.01,
-      "exposure_compensation_ev": -0.3
-    },
-    "focus": "focus on the torso and shorts in the mirror image",
-    "depth_of_field": "natural smartphone deep depth of field; background clearly visible with no artificial blur",
-    "composition": {
-      "aspect_ratio": "1:1",
-      "crop": "from the top of the head to mid-thigh; include the desk, monitor, PC tower, and plant in the frame",
-      "angle": "slightly high angle from the mirror’s point of view",
-      "composition_note": "keep the subject centered; to avoid wide-angle edge distortion, have her stand a bit further away and crop to a square later."
-    }
-  },
-  "negative_prompts": [
-    "Any appearance of pink/magenta anywhere",
-    "Beauty filters/over-smoothed skin; poreless skin look",
-    "Exaggerated or distorted anatomy",
-    "NSFW, see-through fabrics, wardrobe malfunctions",
-    "Logos, brand names, or readable user interface text",
-    "Fake portrait-mode blur, CGI/illustration feel"
-  ]
-}
-```
-
-https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-9-detailed-mirror-selfie-otaku-room-scene
 
 # Profile / Avatar - Intimate Low-Light Bedroom Selfie Portrait
 
