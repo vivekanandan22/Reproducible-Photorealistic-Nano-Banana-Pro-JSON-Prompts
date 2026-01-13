@@ -118,6 +118,52 @@ https://gemini.google.com/share/c2a31ef9a3cf
 
 https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-9-detailed-mirror-selfie-otaku-room-scene
 
+# Profile / Avatar - Playful Beach Selfie with Layered Jewelry
+
+https://gemini.google.com/share/992c0b8eca68
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/efefb4d9-1d65-40a4-8046-20f9a635ca7a" />
+
+```json
+{
+  "image_prompt": {
+    "subject": {
+      "description": "Young woman , Fair skin tone, long straight light brown hair with some strands blowing in the wind.",
+      "pose": "Selfie angle, slightly tilted head, sticking tongue out playfully, looking off-camera to the side.",
+      "visible_body": "Shoulders, chest, and partial upper torso visible."
+    },
+    "attire": {
+      "top": "Black bikini top with lace trim detailing on the edges and thin straps.",
+      "jewelry": [
+        "Gold layered necklace.",
+        "Gold cross pendant with small embedded crystals.",
+        "Gold 'CD' logo charms integrated into the chain (Dior style)."
+      ]
+    },
+    "environment": {
+      "location": "Beach setting.",
+      "background": {
+        "ocean": "Choppy ocean waves with white foam, blue-grey water.",
+        "sky": "Overcast sky with bright patches, white and grey clouds.",
+        "distant_details": "Silhouette of a distant pier or structure and small figures in the water."
+      }
+    },
+    "lighting_and_atmosphere": {
+      "type": "Natural daylight, slightly backlit causing soft shadows on the face.",
+      "mood": "Playful, casual, summer vibe, beach day.",
+      "color_palette": "Natural tones, cool ocean blues, warm skin tones, bright sky."
+    },
+    "technical_specs": {
+      "quality": "4k, HD, Ultra-realistic, high resolution.",
+      "style": "Photorealistic selfie, candid shot.",
+      "focus": "Sharp focus on the face, slightly softer background depth of field."
+    }
+  }
+}
+```
+
+https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-10-profile--avatar---playful-beach-selfie-with-layered-jewelry
+
 
 # 2000s Mirror Selfie
 
@@ -853,51 +899,6 @@ https://gemini.google.com/share/533f1d27165e
 
 https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-7-profile--avatar---ultra-close-photorealistic-couple-selfie-with-heart-cheek-paint
 
-# Profile / Avatar - Playful Beach Selfie with Layered Jewelry
-
-https://gemini.google.com/share/992c0b8eca68
-
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/efefb4d9-1d65-40a4-8046-20f9a635ca7a" />
-
-```json
-{
-  "image_prompt": {
-    "subject": {
-      "description": "Young woman , Fair skin tone, long straight light brown hair with some strands blowing in the wind.",
-      "pose": "Selfie angle, slightly tilted head, sticking tongue out playfully, looking off-camera to the side.",
-      "visible_body": "Shoulders, chest, and partial upper torso visible."
-    },
-    "attire": {
-      "top": "Black bikini top with lace trim detailing on the edges and thin straps.",
-      "jewelry": [
-        "Gold layered necklace.",
-        "Gold cross pendant with small embedded crystals.",
-        "Gold 'CD' logo charms integrated into the chain (Dior style)."
-      ]
-    },
-    "environment": {
-      "location": "Beach setting.",
-      "background": {
-        "ocean": "Choppy ocean waves with white foam, blue-grey water.",
-        "sky": "Overcast sky with bright patches, white and grey clouds.",
-        "distant_details": "Silhouette of a distant pier or structure and small figures in the water."
-      }
-    },
-    "lighting_and_atmosphere": {
-      "type": "Natural daylight, slightly backlit causing soft shadows on the face.",
-      "mood": "Playful, casual, summer vibe, beach day.",
-      "color_palette": "Natural tones, cool ocean blues, warm skin tones, bright sky."
-    },
-    "technical_specs": {
-      "quality": "4k, HD, Ultra-realistic, high resolution.",
-      "style": "Photorealistic selfie, candid shot.",
-      "focus": "Sharp focus on the face, slightly softer background depth of field."
-    }
-  }
-}
-```
-
-https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-10-profile--avatar---playful-beach-selfie-with-layered-jewelry
 
 # Profile / Avatar - Full-Body Mirror Selfie with Tattoos in Modern Gym
 
