@@ -1777,7 +1777,7 @@ https://gemini.google.com/share/16e3e08ada4c
     "hair_accessories": "hair styled in messy chic waves, slightly windswept look"
   },
   "outfit": {
-    "top": "{argument name="top material" default="black satin"} structured bodice with deep v-neckline and lace trim detailing",
+    "top": "{argument name=\"top material\" default=\"black satin\"} structured bodice with deep v-neckline and lace trim detailing",
     "bottom": "matching black micro-skirt with small side slit",
     "accessories": [
       "black translucent tights (20 denier)",
@@ -1820,3 +1820,49 @@ https://gemini.google.com/share/16e3e08ada4c
 ```
 
 https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-31-social-media-post---cinematic-flash-photography-night-editorial
+
+# Infographic / Edu Visual - Photorealistic Scientist in Futuristic AI Lab
+
+https://gemini.google.com/share/6f4aa04ffd28
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/57f292bf-1c64-4f7a-8fa2-84f93ffdac7b" />
+
+```json
+{
+  "subject": {
+    "description": "young beautiful woman scientist",
+    "age": "22-25 years old",
+    "appearance": {
+      "hair": "curly long brown hair",
+      "eyes": "striking blue eyes",
+      "features": "freckles"
+    },
+    "outfit": {
+      "main": "wearing white lab coat over black top",
+      "accessories": "delicate silver necklace"
+    },
+    "expression_pose": "waiting patiently with calm confident expression"
+  },
+  "environment": {
+    "location": "standing in the most advanced futuristic AI laboratory",
+    "elements": [
+      "high-tech glowing servers",
+      "holographic displays",
+      "blue and neon lights",
+      "quantum computers",
+      "glass walls",
+      "robotic arms"
+    ]
+  },
+  "style": {
+    "lighting": "cinematic lighting",
+    "quality": [
+      "ultra-realistic",
+      "highly detailed",
+      "8k"
+    ]
+  }
+}
+```
+
+https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-40-infographic--edu-visual---photorealistic-scientist-in-futuristic-ai-lab
