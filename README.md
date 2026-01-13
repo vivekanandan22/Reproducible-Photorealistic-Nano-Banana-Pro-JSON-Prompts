@@ -1522,3 +1522,60 @@ https://gemini.google.com/share/763d0351f9bc
 ```
 
 https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-23-social-media-post---photorealistic-image-generation-prompt-for-a-woman-in-a-gym-high-angle-shot
+
+# Social Media Post - Structured JSON Prompt for Luxury Couple Editorial Campaign
+
+https://gemini.google.com/share/55b335a31b40
+
+<img width="687" height="1024" alt="image" src="https://github.com/user-attachments/assets/0228bfde-5109-4880-9d31-d550e10893ee" />
+
+```json
+{
+  "generation_request": {
+    "meta_data": {
+      "tool": "NanoBanana Pro",
+      "task_type": "photorealistic_couple_editorial_campaign",
+      "version": "v1.2_MUSEUM_LUXURY_COUPLE_EDITORIAL",
+      "priority": "highest"
+    },
+    "references": {
+      "reference_image_1": "UPLOAD_REFERENCE_IMAGE (POSE + COMPOSITION + MOOD LOCK)"
+    },
+    "output_settings": {
+      "aspect_ratio": "2:3",
+      "orientation": "portrait",
+      "resolution": "ultra_high_res",
+      "render_style": "ultra_photoreal_high_fashion_editorial",
+      "sharpness": "crisp_but_natural",
+      "film_grain": "none_or_minimal",
+      "color_grade": "warm_museum_luxury_true_to_life"
+    },
+    "hard_constraints": [
+      "EXACTLY 2 people only (one woman, one man).",
+      "Perfect identity match if faces are provided (no face or body changes).",
+      "Pose and framing must match the reference: seated side-by-side on a gallery bench, relaxed crossed-leg posture.",
+      "No readable text, no logos, no watermarks (newspapers must be blank or abstract).",
+      "Perfect anatomy: hands, fingers, legs, feet, and posture fully correct.",
+      "Photoreal skin texture; no plastic smoothing.",
+      "No extra people, reflections, or background faces."
+    ],
+    "creative_prompt": {
+      "scene_summary": "Ultra-photoreal luxury fashion editorial set inside a high-end art museum or gallery. A stylish couple sits casually on a wooden gallery bench beneath a large framed classical landscape painting. The woman wears a strapless white mini dress with a sculpted silhouette, white high heels, and elegant sunglasses; hair pulled back in a refined updo; minimal gold jewelry. The man wears a tailored black suit with a white shirt and dark sunglasses; polished shoes; relaxed but confident posture.\n\nBoth are reading newspapers in a playful, ironic editorial moment; all newspaper pages are visually abstract with NO readable text or headlines. Composition mirrors the reference: balanced symmetry, legs crossed, effortless elegance. Lighting is soft museum gallery lighting—warm, diffused, shadow-controlled—creating a refined cinematic atmosphere. Color palette: warm neutrals, ivory walls, golden frame accents, natural wood tones. Mood: chic, intellectual, modern luxury, quietly confident, fashion-house campaign quality.\n\nCamera: 85mm editorial portrait look, medium depth of field, subjects tack sharp, background painting slightly softened but recognizable. Overall feel: Vogue / luxury brand campaign, timeless and sophisticated."
+    },
+    "negative_prompt": [
+      "any readable text",
+      "logos, branding, watermarks",
+      "extra people or reflections",
+      "distorted legs, hands, feet",
+      "identity drift",
+      "cartoon, anime, CGI look",
+      "plastic or over-smoothed skin",
+      "harsh flash or blown highlights",
+      "busy or cluttered background",
+      "cheap fashion styling"
+    ]
+  }
+}
+```
+
+https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-24-social-media-post---structured-json-prompt-for-luxury-couple-editorial-campaign
