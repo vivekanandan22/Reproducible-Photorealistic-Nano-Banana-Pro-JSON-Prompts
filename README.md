@@ -1,3 +1,5 @@
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 # Reproducible Photorealistic Nano Banana Pro JSON Prompts
 
 # Profile / Avatar - Ultra-Photorealistic Candid Smartphone Selfie Prompt
@@ -2034,3 +2036,1169 @@ https://gemini.google.com/share/c4d88e6c4a70
 ```
 
 https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-56-youtube-thumbnail---hyper-realistic-cinematic-night-portrait-in-rain
+
+# Image to Image
+
+https://gemini.google.com/share/1f61f31fc325
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/01f9c1d2-3beb-4ffa-95af-51abb52953db" />
+
+```json
+{
+  "image_generation_prompt": {
+    "subject": {
+      "main_character": {
+        "description": "Young Japanese woman in her late teens or early 20s",
+        "appearance": {
+          "hair": "Long, straight medium-brown hair with straight bangs covering the forehead",
+          "eyes": "Dark brown, almond-shaped, looking directly at the camera",
+          "skin": "Fair complexion, soft texture",
+          "accessories": "Wearing a white disposable surgical mask covering nose and mouth"
+        },
+        "clothing": "White button-up shirt with a rounded 'Peter Pan' collar, possibly a school uniform or medical attire",
+        "expression": "Neutral to slightly smiling eyes (Duchenne marker), friendly gaze"
+      },
+      "secondary_character": {
+        "description": "Another person partially visible on the left side",
+        "clothing": "Black ribbed sweater or top",
+        "face": "Heavily blurred or obscured for privacy"
+      }
+    },
+    "composition": {
+      "type": "Selfie / Close-up portrait",
+      "angle": "Eye-level, slightly high angle typical of a handheld selfie",
+      "framing": "Head and shoulders shot, cropped close to the faces"
+    },
+    "environment": {
+      "setting": "Indoor, simple background (likely a room or restroom with white walls)",
+      "lighting": "Soft, diffused indoor artificial lighting, casting gentle shadows, creating a highlight in the eyes"
+    },
+    "style": {
+      "medium": "Digital photography, smartphone camera aesthetic",
+      "quality": "High resolution, photorealistic, candid style",
+      "mood": "Casual, daily life, friendly"
+    }
+  }
+}
+```
+
+https://gemini.google.com/share/c5acd2c05d83
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/2e5e23e8-823a-47d7-a5c0-1a3baec76c3e" />
+
+
+```json
+{
+  "subject": {
+    "type": "Young Asian woman",
+    "age_range": "20s",
+    "hair": {
+      "color": "Light brown",
+      "style": "Medium length, straight with bangs (fringe), slightly windblown texture",
+      "shine": "Natural sunlit highlights"
+    },
+    "clothing": {
+      "top": "Light blue textured knit sweater or thermal top",
+      "texture": "Waffle knit or ribbed fabric"
+    },
+    "face": {
+      "mask": "Light grey non-woven disposable face mask, covering nose and chin properly",
+      "eyes": "Dark brown eyes, looking directly at the camera",
+      "expression": "Eye smile (smiling expression visible through the eyes), friendly and casual"
+    }
+  },
+  "environment": {
+    "location": "Botanical garden or large public park during flower festival",
+    "season": "Early spring",
+    "weather": "Sunny, clear blue sky",
+    "flower_fields": {
+      "foreground": "Rows of vibrant tulips",
+      "colors": ["Bright red", "Pink", "Yellow", "Green stems"],
+      "arrangement": "Curved planting rows"
+    },
+    "background_elements": {
+      "trees": "Large deciduous trees with bare branches (no leaves yet), indicating early spring",
+      "structures": "Modern building with glass windows in the distance (greenhouse or museum)",
+      "crowd": " blurred people walking in the background, casual tourists"
+    }
+  },
+  "lighting": {
+    "type": "Natural daylight",
+    "quality": "Harsh, bright mid-day sunlight",
+    "direction": "Front-lit subject",
+    "shadows": "Sharp shadows on the ground"
+  },
+  "composition": {
+    "perspective": "Selfie angle (arm extended)",
+    "shot_type": "Close-up portrait",
+    "camera_lens": "Smartphone front camera equivalent (slightly wide angle)",
+    "depth_of_field": "Deep depth of field (background details are visible but slightly softer than the subject)"
+  },
+  "style": {
+    "aesthetic": "Realism, candid social media photo, travel photography",
+    "quality": "High resolution, sharp details on eyelashes and hair"
+  }
+}
+```
+
+https://gemini.google.com/share/fe8227a7e9dd
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/e2f0244c-07a0-400a-996c-3301cee4f134" />
+
+
+```json
+{
+  "model_target": "Nano Banana Pro (Gemini 3 Pro Image)",
+  "image_type": "Realistic Photo / Selfie",
+  "subject": {
+    "demographics": "Young Asian woman (Japanese)",
+    "appearance": {
+      "hair": "Long, straight dark brown hair with lighter brown highlights, full bangs (fringe) covering forehead",
+      "eyes": "Large, light brown eyes (wearing colored contact lenses), looking directly at the camera",
+      "skin": "Fair complexion, natural texture",
+      "makeup": "Subtle natural makeup, coral-pink lipstick, soft blush, defined eyeliner"
+    },
+    "expression": "Neutral to slightly serious, relaxed gaze",
+    "clothing": "White or cream-colored casual sweatshirt or long-sleeve top (partial view)"
+  },
+  "environment": {
+    "setting": "Indoor desk setup / Gaming room",
+    "furniture": {
+      "chair": "Black and pink gaming chair (bucket seat style), visible white star logo embroidery on the headrest, pink lumbar support cushion",
+      "chair_details": "Leather or faux-leather texture"
+    },
+    "background_elements": "Computer monitor screen in the upper left background",
+    "screen_content": "Displaying Google search homepage (text is horizontally flipped/mirrored, indicating a mirror selfie or flipped camera)"
+  },
+  "photography_parameters": {
+    "angle": "Close-up selfie shot, slightly high angle",
+    "lighting": "Soft indoor ambient lighting, illuminating the face evenly",
+    "focus": "Sharp focus on the face and eyes, slightly softer background",
+    "composition": "Subject centered but slightly leaning to the left, head tilted slightly"
+  }
+}
+```
+
+https://gemini.google.com/share/9efe998d80fe
+
+<img width="765" height="1024" alt="image" src="https://github.com/user-attachments/assets/044b6339-eb02-4894-b8d2-f10478c7607b" />
+
+```json
+{
+  "image_generation_prompt": {
+    "subject": {
+      "description": "Young Asian woman taking a selfie",
+      "age": "20s",
+      "hair": {
+        "color": "dark brown",
+        "style": "medium bob cut",
+        "bangs": "wispy bangs (see-through bangs)",
+        "texture": "straight, smooth"
+      },
+      "face": {
+        "expression": "gentle smile, looking directly at the camera",
+        "eyes": "brown eyes, slight aegyosal (tear bags)",
+        "makeup": "natural look, reddish glossy lipstick, soft pink blush",
+        "skin": "fair, clear complexion"
+      }
+    },
+    "clothing": {
+      "neckwear": "large fluffy white scarf (or snood), textured knit",
+      "outerwear": "black winter coat or down jacket (visible at shoulder)"
+    },
+    "environment": {
+      "setting": "city street at night",
+      "background_elements": "blurred shop lights, urban bokeh, soft illumination",
+      "details": "partial view of another person's blonde hair visible on the right edge"
+    },
+    "lighting": {
+      "type": "soft urban night lighting",
+      "quality": "diffused front lighting on face, ambient glow from street signs"
+    },
+    "composition": {
+      "angle": "high angle selfie shot",
+      "framing": "close-up portrait",
+      "focus": "sharp focus on face, shallow depth of field (blurred background)"
+    },
+    "style": {
+      "aesthetic": "realistic, casual, social media photo style, high resolution",
+      "mood": "warm, cute, winter vibe"
+    }
+  },
+  "negative_prompt": [
+    "low quality",
+    "blurry",
+    "distorted",
+    "bad anatomy",
+    "bad lighting",
+    "harsh shadows",
+    "oversaturated"
+  ],
+  "meta_parameters": {
+    "aspect_ratio": "3:4",
+    "style_preset": "photographic"
+  }
+}
+```
+
+https://gemini.google.com/share/591376e08cc8
+
+<img width="765" height="1024" alt="image" src="https://github.com/user-attachments/assets/2e0c76ad-05f2-45b0-8d68-1eb4ef4d1199" />
+
+
+```json
+{
+  "prompt_version": "v1.0",
+  "subject": {
+    "demographics": "Young Japanese woman, approx 20-22 years old",
+    "appearance": {
+      "hair": "Long wavy brown hair, soft texture, airy bangs (fringe) covering forehead",
+      "face": "Soft gentle smile, looking directly at camera, light natural makeup, blush on cheeks",
+      "pose": "Sitting on a green bench, holding a white plate with both hands in front of chest"
+    },
+    "clothing": "Light beige ribbed knit sweater (long sleeve), hint of floral pattern skirt visible at the bottom"
+  },
+  "objects": {
+    "main_plate": {
+      "type": "White round ceramic plate",
+      "contents": [
+        "One Mont Blanc cake (chestnut cream spiral)",
+        "Two slices of burnt Basque cheesecake",
+        "Powdered sugar dusting",
+        "Drizzle of caramel sauce"
+      ]
+    },
+    "foreground_items": [
+      "White paper gift bag with dark blue handles (left side)",
+      "Glass of orange juice with a straw (bottom left, partially cropped)"
+    ]
+  },
+  "environment": {
+    "location": "Cozy cafe interior",
+    "background": "Light natural wooden plank wall, warm texture",
+    "seating": "Green upholstered sofa bench"
+  },
+  "lighting": {
+    "type": "Soft warm indoor ambient lighting",
+    "direction": "Frontal soft fill light",
+    "shadows": "Soft minimal shadows"
+  },
+  "technical_specs": {
+    "style": "Photorealistic, candid snapshot, influencer style, date night vibe",
+    "camera_angle": "Eye-level shot, medium close-up",
+    "focus": "Sharp focus on face and cakes, slight depth of field blurring the wooden wall",
+    "aspect_ratio": "3:4 (Portrait)"
+  }
+}
+```
+
+https://gemini.google.com/share/aa18537f3616
+
+<img width="765" height="1024" alt="image" src="https://github.com/user-attachments/assets/1a3a5e1d-9c2e-4903-9349-792b5c695059" />
+
+
+```json
+{
+  "image_generation_params": {
+    "model": "Nano Banana Pro / Gemini 3 Pro Image",
+    "aspect_ratio": "3:4",
+    "focus": "sharp focus on subject, soft background blur",
+    "prompt": {
+      "subject": {
+        "description": "Japanese young woman, side profile, looking down slightly with a serene and peaceful expression, eyes closed or cast down.",
+        "hair": "Dark brown medium-length hair, loose waves, see-through bangs, soft texture.",
+        "body": "Sitting pose, upper body shot."
+      },
+      "fashion": {
+        "top": "White ribbed turtleneck knit sweater, unique design with large tulle or chiffon ribbon bows attached to the shoulders, fringed or feathered texture detail on the chest area.",
+        "bottom": "Dark blue denim jeans."
+      },
+      "action": {
+        "hands": "Holding a small beige ceramic saucer with both hands carefully.",
+        "objects": "A beige ceramic mug cup sitting on the saucer with the text 'HOO.' printed on it, a black straw in the cup. A small round scone or pastry on the side of the saucer."
+      },
+      "environment": {
+        "location": "Rustic cafe interior.",
+        "background": "Textured earthen wall (wattle and daub style) with visible straw texture, a vertical wooden pillar or beam on the right side.",
+        "lighting": "Natural window light coming from the right, creating soft shadows and a warm, cozy atmosphere."
+      },
+      "style": {
+        "visuals": "Photorealistic, 8k resolution, high quality, candid photography style, shallow depth of field, instagrammable cafe shot.",
+        "color_palette": "Beige, white, earthy tones, soft browns."
+      }
+    },
+    "negative_prompt": [
+      "low quality",
+      "blurry",
+      "distorted hands",
+      "extra fingers",
+      "bad anatomy",
+      "text errors",
+      "messy background",
+      "overexposed",
+      "unnatural skin texture"
+    ]
+  }
+}
+```
+
+https://gemini.google.com/share/e77fff512bd2
+
+<img width="765" height="1024" alt="image" src="https://github.com/user-attachments/assets/fece1c5c-a042-4f5e-b104-dfa61809c326" />
+
+
+```json
+{
+  "prompt_config": {
+    "model": "Nano Banana Pro / Gemini 3 Pro Image",
+    "aspect_ratio": "3:4",
+    "style_preset": "candid_photography"
+  },
+  "subject": {
+    "demographics": "Young East Asian woman, roughly 20s",
+    "hair": "Medium length black hair, slightly wavy, see-through bangs (air bangs), soft texture",
+    "expression": "Laughing genuinely, eyes squinting with joy (eye smile), covering mouth with left hand in a shy but happy gesture",
+    "details": "Dark nail polish, gold rings on index and middle fingers of left hand"
+  },
+  "apparel": {
+    "top": "Ribbed knit sweater, beige or camel base color with a bold blue plaid / checkered pattern, long sleeves, casual winter/autumn fashion"
+  },
+  "environment": {
+    "location": "Casual indoor bistro or restaurant, industrial chic interior with exposed white ceiling pipes",
+    "lighting": "Warm ambient tungsten lighting, slightly dim, restaurant atmosphere",
+    "background": "Blurred background with other diners and restaurant furniture, depth of field effect"
+  },
+  "composition_and_style": {
+    "framing": "Medium shot, slightly high angle (selfie or friend-pov angle)",
+    "aesthetic": "Candid smartphone photography, 'SODA' camera app style, slightly soft focus, warm color grading, authentic moment, unposed feel",
+    "props": "Wine glass with white wine in the immediate foreground (slightly out of focus)"
+  }
+}
+```
+
+https://gemini.google.com/share/077814118ded
+
+<img width="765" height="1024" alt="image" src="https://github.com/user-attachments/assets/eea11a95-7386-47f1-b62d-ac937444ef53" />
+
+```json
+{
+  "model_version": "Nano Banana Pro (Gemini 3 Pro Image)",
+  "task": "image_generation",
+  "parameters": {
+    "aspect_ratio": "3:4",
+    "quality": "ultra_high",
+    "lighting_model": "complex_indoor_illumination"
+  },
+  "prompt_structure": {
+    "subject": {
+      "description": "A young Asian woman in her 20s with a bright, natural smile.",
+      "appearance": {
+        "hair": "Shoulder-length dark brown hair, slightly wavy, soft texture.",
+        "clothing": "Wearing a thick beige muffler (scarf) tied loosely around the neck, over a dark brown or black wool coat.",
+        "expression": "Laughing or smiling broadly, looking directly at the camera, conveying happiness and warmth."
+      },
+      "pose": "Standing waist-up portrait, hands resting gently near the waist area."
+    },
+    "environment": {
+      "location": "Indoor shopping mall atrium with high ceilings and glass railings.",
+      "decorations": "Extensive hanging light decorations. Numerous spherical glowing ornaments (gold and white) suspended from the ceiling on vertical strings. String lights (fairy lights) draping vertically.",
+      "background_details": "Blurred background showing multiple levels of the mall, a white house-shaped decoration, and a neon sign reading 'umie'. Reflections on glass surfaces."
+    },
+    "lighting": {
+      "type": "Warm festive illumination.",
+      "characteristics": "Bokeh effect from the hanging lights, soft ambient lighting on the face, high contrast between the bright ornaments and the darker background depth."
+    },
+    "style": {
+      "aesthetic": "Candid smartphone photography style, high resolution, holiday atmosphere.",
+      "vibe": "Romantic, cheerful, winter holiday season."
+    }
+  },
+  "raw_prompt_text": "A photorealistic vertical shot of a smiling young Asian woman in a dark coat and beige scarf, standing indoors at a shopping mall. The background is filled with hanging golden spherical Christmas lights and vertical string lights creating a beautiful bokeh. A sign saying 'umie' is visible in the blurred background. Warm lighting, festive atmosphere, candid portrait, high quality, 8k resolution."
+}
+```
+
+https://gemini.google.com/share/b5c9b577a911
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/dda57d84-4f5c-4375-8c13-7af706cec03d" />
+
+
+```json
+{
+  "project": "Nano_Banana_Pro_Generation",
+  "subject": {
+    "demographics": "Young Asian woman, approximately 20 years old, Korean beauty aesthetic (Ulzzang style).",
+    "face": {
+      "skin": "Fair, porcelain skin, smooth texture.",
+      "eyes": "Large, expressive dark eyes with circle lenses, straight eyebrows, soft makeup.",
+      "lips": "Gradient red lips, glossy finish.",
+      "expression": "Gentle smile, looking directly at the camera, alluring and cute."
+    },
+    "hair": {
+      "style": "Long straight dark brown hair with see-through bangs.",
+      "color_feature": "Distinct ash-pink or blonde inner color highlights (peek-a-boo highlights) visible on the side.",
+      "texture": "Silky, soft sheen under street lights."
+    },
+    "pose": "Medium close-up, hand gently touching the hair strands on the left side, standing naturally."
+  },
+  "fashion": {
+    "outerwear": "Heavy black wool coat with wide lapels, oversized fit.",
+    "inner": "Black turtleneck sweater.",
+    "style": "Winter casual, trendy, clean and chic."
+  },
+  "environment": {
+    "location": "Busy street in Seoul at night (Hongdae or Itaewon vibe).",
+    "background_details": "Blurred background with pedestrians, outdoor street food stalls (Pocha), plastic chairs, neon signs in Korean hangul, city street lights.",
+    "atmosphere": "Lively city night, bustling but focused on the subject."
+  },
+  "technical": {
+    "lighting": "Night street ambient lighting, overhead street lamp casting a soft glow on the face and hair, creating a natural rim light. Slight lens flare.",
+    "photography_style": "Candid smartphone photography, high-quality portrait mode, depth of field (bokeh background).",
+    "quality_tags": "Photorealistic, 8k resolution, highly detailed, raw photo style, sharp focus on eyes."
+  },
+  "negative_prompt": [
+    "bad anatomy",
+    "distorted hands",
+    "missing fingers",
+    "blurry face",
+    "cartoon",
+    "illustration",
+    "low quality",
+    "grainy",
+    "overexposed"
+  ]
+}
+```
+
+https://gemini.google.com/share/510e385b261f
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/58f5598a-b6cd-4f95-a257-6e52486e05b4" />
+
+
+```json
+{
+  "prompt_config": {
+    "model_version": "Nano Banana Pro (Gemini 3 Pro Image)",
+    "style_preset": "Cinematic Portrait / Candid"
+  },
+  "image_generation_prompt": {
+    "subject": {
+      "demographics": "Young Japanese woman, early 20s",
+      "hair": "Chin-length bob cut, light brown hair color, soft texture, wispy see-through bangs, slightly messy but natural look",
+      "face": "Soft facial features, looking away from camera (looking up and to the right), gentle and relaxed expression, slight smile, small mole on the neck",
+      "skin": "Natural skin texture, fair complexion, soft lighting highlights on face"
+    },
+    "outfit": {
+      "inner": "Simple white crew-neck t-shirt or blouse",
+      "outer": "Navy blue cardigan, unbuttoned at the top, visible silver buttons",
+      "accessories": "Holding a smartphone with a beige/gold case in right hand"
+    },
+    "environment": {
+      "setting": "Indoor atrium or shopping mall with a garden-like feel",
+      "background_elements": "Tiered planters with lush greenery and bright red flowers (impatiens or geraniums), blurred background elements suggesting a spacious indoor area"
+    },
+    "lighting_and_atmosphere": {
+      "quality": "Warm ambient lighting, golden hour feel, soft bloom effect, dreamy atmosphere",
+      "direction": "Soft diffused light from above and front-left",
+      "tone": "High-key but warm, nostalgic color palette, slightly hazy"
+    },
+    "camera_settings": {
+      "angle": "Low angle shot (looking slightly up at the subject)",
+      "framing": "Medium close-up, bust shot",
+      "focus": "Shallow depth of field, focus on face, bokeh background",
+      "aesthetic": "Photorealistic, candid photography, smartphone camera aesthetic but high quality"
+    }
+  },
+  "negative_prompt": [
+    "dark lighting",
+    "harsh shadows",
+    "direct eye contact",
+    "stiff pose",
+    "vector art",
+    "illustration",
+    "monochrome",
+    "distorted hands",
+    "overly heavy makeup"
+  ]
+}
+```
+
+https://gemini.google.com/share/aafbc5173782
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/0ee91091-1a4a-4b13-a02e-3aafea97a8ce" />
+
+
+```json
+{
+  "model_version": "Nano Banana Pro (Gemini 3 Pro Image)",
+  "prompt_content": {
+    "subject": {
+      "demographics": "Young Japanese woman, approx 20 years old",
+      "appearance": "Dark brown medium-length hair with loose waves, see-through bangs (wispy bangs), natural makeup, soft skin texture",
+      "expression": "Relaxed, looking slightly to the side (off-camera), eyes open, sipping from a straw",
+      "pose": "Leaning forward on a table, holding a glass with both hands, upper body shot"
+    },
+    "apparel": {
+      "top": "Beige or oatmeal-colored fuzzy mohair knit sweater, long sleeves, oversized and cozy fit, slight texture visible",
+      "accessories": "Simple necklace (barely visible), manicured nails with neutral/earth tones"
+    },
+    "objects": {
+      "drink": "Tall glass of iced latte or iced coffee with milk layers, caramel drizzle or foam on top, black straw",
+      "furniture": "Wooden table with diagonal wood grain texture, grey coaster under the glass"
+    },
+    "environment": {
+      "setting": "Cozy cafe interior",
+      "background": "Blurred background (bokeh), wooden bench seating, beige cushions, warm ambient atmosphere"
+    },
+    "technical_specs": {
+      "perspective": "High angle shot, close-up portrait",
+      "lighting": "Soft natural window light coming from the front/side, warm color temperature",
+      "style": "Photorealistic, candid lifestyle photography, high definition, detailed texture of the knit sweater and hair"
+    }
+  }
+}
+```
+
+https://gemini.google.com/share/efe20ac1d88f
+
+<img width="765" height="1024" alt="image" src="https://github.com/user-attachments/assets/d68d859d-0cd7-464a-a807-04aaf7a59475" />
+
+
+```json
+{
+  "parameters": {
+    "aspect_ratio": "3:4",
+    "style": "photorealistic, lifestyle portrait"
+  },
+  "prompt_description": "A high-quality, photorealistic full-body portrait of a young Japanese woman sitting casually on a concrete sea wall by the ocean. She has long, wavy chestnut-brown hair flowing down, looking downwards with a shy, gentle smile. She is wearing a cropped, V-neck cardigan with a large blue and black argyle (diamond check) pattern over a white inner top. Her bottoms are loose-fitting, light-wash wide-leg denim jeans with a slight distressed detail on the thigh. She wears navy blue high-top canvas sneakers (Converse style). One leg is bent resting on the wall, the other hangs down. The background features a grey, overcast sky and a calm, flat ocean horizon. The lighting is soft, diffused, and natural, typical of a cloudy day, creating a cool, muted color palette with low contrast.",
+  "prompt_tags": [
+    "1girl",
+    "solo",
+    "asian",
+    "japanese",
+    "long wavy brown hair",
+    "looking down",
+    "shy smile",
+    "sitting on sea wall",
+    "concrete barrier",
+    "legs crossed",
+    "relaxed pose",
+    "fashion",
+    "cropped cardigan",
+    "argyle pattern",
+    "blue and black sweater",
+    "white inner",
+    "wide leg jeans",
+    "light wash denim",
+    "high-top sneakers",
+    "navy sneakers",
+    "ocean background",
+    "cloudy sky",
+    "overcast",
+    "grey sky",
+    "horizon",
+    "outdoors",
+    "daytime",
+    "soft lighting",
+    "muted tones",
+    "cinematic",
+    "8k resolution",
+    "highly detailed",
+    "depth of field"
+  ],
+  "negative_prompt": "painting, drawing, illustration, anime, sketch, 3d render, cartoon, deformed, distorted, disfigured, bad anatomy, bad hands, missing limbs, extra fingers, floating limbs, disconnected limbs, mutation, ugly, disgusting, amputation, low quality, worst quality, jpeg artifacts, watermark, text, signature, bright sunshine, harsh shadows, oversaturated"
+}
+```
+
+https://gemini.google.com/share/ef7ae4e812e9
+
+<img width="765" height="1024" alt="image" src="https://github.com/user-attachments/assets/7cdce96b-2ed8-4e60-8b6d-e3f505b45262" />
+
+
+```json
+{
+  "prompt_structure": {
+    "subject": {
+      "demographics": "Young Asian woman, likely Japanese, mid-20s",
+      "appearance": "Long dark brown straight hair, natural makeup, radiant and friendly smile showing teeth, looking directly at the camera",
+      "fashion": {
+        "outerwear": "Black and white horizontal striped knit cardigan, Chanel-style jacket design, gold buttons, texture of soft knit fabric",
+        "innerwear": "Solid black top",
+        "accessories": "Small gold hoop earrings"
+      },
+      "pose": "Sitting at a café table, relaxed posture, upper body shot"
+    },
+    "environment": {
+      "location": "Rooftop terrace café or restaurant, open-air seating",
+      "background": {
+        "elements": "Urban cityscape view with buildings, distant mountains on the horizon, potted green plants and rosemary bushes directly behind the subject",
+        "details": "White patio umbrella with text (partially visible), glass railing"
+      },
+      "foreground": {
+        "items": "Glass of white wine or champagne with ice on the table, small white dish with pretzels",
+        "furniture": "Woven black chair, grey round table"
+      }
+    },
+    "photography_style": {
+      "aesthetic": "Lifestyle portrait, candid social media photo, high-end casual",
+      "lighting": "Soft natural daylight, overcast sky, diffused lighting (no harsh shadows), gentle illumination on face",
+      "camera_settings": "Medium depth of field (background slightly blurred but recognizable), sharp focus on eyes, 50mm to 85mm lens look",
+      "color_grade": "Natural colors, slightly cool tone balance, clear and bright"
+    }
+  },
+  "generation_parameters": {
+    "aspect_ratio": "3:4",
+    "quality": "high quality, photorealistic, 8k resolution, detailed texture",
+    "negative_prompt": "blurry, low quality, distorted face, bad anatomy, closed eyes, dark image, artificial lighting, sunglasses"
+  }
+}
+```
+
+https://gemini.google.com/share/3df9037241a2
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/362f2eca-6a93-486f-bcf6-7d692a056ba2" />
+
+
+```json
+{
+  "model_config": {
+    "model_name": "Nano Banana Pro (Gemini 3 Pro Image)",
+    "version": "v1.0",
+    "mode": "photorealistic_portrait"
+  },
+  "prompt_data": {
+    "subject": {
+      "demographics": "Young Asian woman, early 20s",
+      "appearance": {
+        "hair": "Long brown hair, slightly wavy, down, soft texture",
+        "expression": "Gentle smile, showing teeth, looking directly at camera, friendly and warm demeanor",
+        "makeup": "Natural makeup, soft pink lip, defined eyebrows"
+      },
+      "apparel": {
+        "outerwear": "Beige faux-leather puffer vest (sleeveless down jacket)",
+        "top": "Black long-sleeve ribbed knit sweater",
+        "bottoms": "White pants or skirt (partially visible)",
+        "accessories": "Small gold necklace, hoop earrings with pearl or bead accent, black crossbody bag strap visible"
+      },
+      "pose": "Standing, medium shot, right hand gently touching hanging yellow maple leaves, body slightly angled"
+    },
+    "environment": {
+      "setting": "Outdoor Japanese garden or park in Autumn",
+      "foreground": "Vibrant yellow Japanese maple leaves (Momiji) hanging from branches, framing the top left",
+      "background": "Traditional Japanese brushwood fence (take-gaki/shiba-gaki), blurred tourists walking in the distance, hints of other autumn foliage (red and orange)",
+      "season": "Late Autumn, Fall season"
+    },
+    "cinematography": {
+      "framing": "Medium close-up, rule of thirds, depth of field applied",
+      "camera_angle": "Eye-level",
+      "focus": "Sharp focus on the subject's face and the leaves she is touching, bokeh background",
+      "lighting": "Soft natural daylight, diffused, no harsh shadows, soft highlights on face"
+    },
+    "style_parameters": {
+      "aesthetic": "Instagram lifestyle photography, soft airy look, high key but balanced",
+      "color_palette": ["Golden yellow", "Beige", "Black", "Soft earthy tones"],
+      "quality": "8k resolution, highly detailed texture (leather, knit, leaves)"
+    }
+  }
+}
+```
+
+https://gemini.google.com/share/b34c34f35e6c
+
+<img width="741" height="1024" alt="image" src="https://github.com/user-attachments/assets/f8ed7e8e-0ae0-4c07-9f0b-920258f52997" />
+
+
+```json
+{
+  "model_config": {
+    "model_name": "Nano Banana Pro (Gemini 3 Pro Image)",
+    "target_resolution": "1024x1408",
+    "steps": 50,
+    "cfg_scale": 7.5
+  },
+  "prompt_structure": {
+    "subject": {
+      "description": "Young Japanese woman, approximately 20 years old, fair skin, gentle and soft expression",
+      "hair": "Dark brown/black hair, styled in a loose, elegant updo (bun) with wispy bangs framing the face and some loose strands",
+      "face": "Soft smile, looking slightly off-camera but engaging, natural makeup with reddish tint on lips",
+      "pose": "Sitting or leaning forward slightly, holding a black smartphone in both hands near lap"
+    },
+    "attire": {
+      "garment": "Traditional Japanese Kimono (Yukata style)",
+      "pattern": "Cream/light beige base fabric with a retro floral pattern featuring orange, blue, and green flowers",
+      "accessories": "Dark colored obi sash wrapped around the waist, accented with a delicate white lace obi-age or accessory"
+    },
+    "environment": {
+      "setting": "Traditional Japanese garden (Nihon Teien)",
+      "elements": [
+        "Green pond water in the background",
+        "Stone pathway and rocks",
+        "Lush green bushes and trees",
+        "Traditional Japanese wooden building/teahouse with tiled roof in the background"
+      ],
+      "lighting": "Natural daylight, soft diffused light, overcast or shaded outdoor lighting"
+    },
+    "style": {
+      "type": "Photorealistic, Candid portrait",
+      "camera_effects": "Depth of field (bokeh) blurring the background to focus on the subject, high resolution, sharp focus on face",
+      "mood": "Peaceful, serene, elegant, cultural"
+    },
+    "negative_prompt": [
+      "low quality",
+      "blurry",
+      "distorted facial features",
+      "bad hands",
+      "extra fingers",
+      "text",
+      "watermark",
+      "cartoon",
+      "illustration",
+      "overexposed",
+      "underexposed"
+    ]
+  },
+  "raw_prompt_string": "Photorealistic portrait of a young Japanese woman in a cream-colored kimono with orange and blue floral patterns, dark obi with lace detail. She has dark hair in a loose updo with bangs, holding a smartphone, soft smile. Background is a blurred traditional Japanese garden with a green pond and wooden teahouse. Natural soft lighting, 8k resolution, cinematic depth of field, high fidelity."
+}
+```
+
+https://gemini.google.com/share/2f66320782e2
+
+<img width="765" height="1024" alt="image" src="https://github.com/user-attachments/assets/6e7965b3-18fa-4f54-9023-e495b4dbdf24" />
+
+
+```json
+{
+  "prompt": "photorealistic, raw photo, masterpiece, best quality, 8k, ultra detailed, 1girl, cute japanese woman, about 20 years old, solo, looking at viewer, looking back over shoulder, sweet smile, happy expression, slight wave gesture, wearing white blouse with sheer organza puffy sleeves, black high-waisted shorts, walking in knee-deep clear water, barefoot, ripples in water, sparkling water surface, summer festival vibe.\n\nBackground: Shimogamo Shrine Mitarashi Festival, traditional japanese shrine architecture, vermilion bridge railing, lush green forest canopy, dappled sunlight filtering through trees, hanging white paper lanterns, shide (paper streamers), crowded background with blurred tourists wading in water, vibrant summer daylight, cinematic lighting, depth of field, soft bokeh.",
+  "negative_prompt": "low quality, worst quality, bad quality, grainy, blurry, illustration, painting, cartoon, anime, 3d render, sketch, deformed, ugly, bad anatomy, bad hands, missing limbs, extra limbs, floating limbs, disconnected limbs, mutation, mutated, extra fingers, malformed hands, long neck, bad proportions, unnatural body position, text, watermark, signature, jpeg artifacts, overexposed, underexposed, skin spots, acnes, skin blemishes, age spot, fat, monochrome.",
+  "parameters": {
+    "width": 896,
+    "height": 1152,
+    "steps": 28,
+    "cfg_scale": 5.0,
+    "sampler_name": "Euler a",
+    "seed": -1
+  },
+  "notes": "Aspect Ratio set to 3:4 roughly to match the portrait orientation. 'Sheer organza puffy sleeves' is key for the blouse texture."
+}
+```
+
+https://gemini.google.com/share/a657b05c755f
+
+<img width="765" height="1024" alt="image" src="https://github.com/user-attachments/assets/ae4e05b9-effc-4927-b67a-0d578cf3fdbf" />
+
+
+```json
+{
+  "prompt_data": {
+    "subject": {
+      "demographics": "Young Japanese woman, around 20 years old, cute and energetic appearance.",
+      "hair": "Long dark brown hair, straight with slight natural waves, soft curtain bangs framing the face.",
+      "expression": "Big glowing smile, showing teeth, looking directly at the camera, happy and excited emotion.",
+      "pose": "Upper body shot, leaning slightly forward, waving left hand towards the viewer with palm open, right hand making a subtle gesture near the face, natural and candid pose.",
+      "clothing": "White long-sleeved crew neck sweatshirt, beige overall dress (pinafore skirt) with straps.",
+      "accessories": "Black sequined mouse-ear headband (Minnie style) with a sparkly bow on top."
+    },
+    "environment": {
+      "location": "Theme park at night (resembling Disneyland), crowded but blurred background.",
+      "lighting": "Night portrait photography, ambient warm street lamps, illuminated architectural facades in the background, soft glow on the face.",
+      "atmosphere": "Magical, festive, fun date night vibe, romantic theme park evening.",
+      "details": "Red heart-shaped balloon or decor partially visible on the right, blurred pedestrians in the background."
+    },
+    "photography_style": {
+      "type": "Candid smartphone snapshot or high-end portrait.",
+      "framing": "Medium close-up.",
+      "focus": "Sharp focus on the face and eyes, creamy bokeh in the background (shallow depth of field).",
+      "quality": "High resolution, photorealistic, 8k, slight film grain for realism, clear facial features."
+    }
+  },
+  "negative_prompt": "blurry, low quality, distorted fingers, unnatural hands, extra limbs, bad anatomy, overexposed, underexposed, cartoonish, illustration, text, watermark, angry face, closed eyes.",
+  "parameters": {
+    "aspect_ratio": "3:4",
+    "lighting_strength": "medium",
+    "style_preset": "photographic"
+  }
+}
+```
+
+https://gemini.google.com/share/7c774462177a
+
+<img width="765" height="1024" alt="image" src="https://github.com/user-attachments/assets/3cf7aee2-a84b-4a3e-a632-131b8f132b3e" />
+
+
+```json
+{
+  "image_generation_parameters": {
+    "model": "Nano Banana Pro (Gemini 3 Pro Image)",
+    "aspect_ratio": "3:4",
+    "style_preset": "Cinematic Lifestyle"
+  },
+  "prompt_content": {
+    "subject": {
+      "demographics": "Young Asian woman, Korean beauty aesthetic, soft facial features, fair skin",
+      "hair": "Dark brown hair styled in a loose low bun, messy aesthetic with natural flyaways, casual look",
+      "expression": "Gentle smile, looking away to the side (profile view), peaceful and contemplative expression",
+      "pose": "Sitting casually on a sandy beach, legs bent, resting chin on left hand, left elbow resting on knee, relaxed posture, barefoot"
+    },
+    "attire": {
+      "top": "Cream-colored ribbed knit cardigan, off-shoulder style revealing collarbones, long sleeves covering hands (slight oversized fit), textured fabric",
+      "bottom": "Classic blue denim jeans, straight fit, casual style",
+      "accessories": "Black thin shoulder bag strap visible on shoulder"
+    },
+    "environment": {
+      "location": "Sandy beach at dusk, shoreline",
+      "background": "Calm ocean waves gently breaking, horizon line, vast sky",
+      "foreground_props": "A white takeaway paper coffee cup with lid and black sunglasses lying on the sand in the immediate foreground"
+    },
+    "lighting_and_atmosphere": {
+      "time_of_day": "Golden hour / Sunset",
+      "lighting_quality": "Soft, warm, diffused natural light, backlighting creating a soft glow around the subject",
+      "color_palette": "Pastel tones, soft blues, creamy whites, warm oranges, muted sand tones",
+      "mood": "Nostalgic, serene, romantic, airy, emotional, 'ulzzang' style"
+    },
+    "technical_specs": {
+      "camera_angle": "Eye-level, medium shot",
+      "lens_effect": "Shallow depth of field (bokeh background), 85mm portrait lens style",
+      "quality": "8k resolution, photorealistic, high detail texture on knitwear and sand"
+    }
+  },
+  "negative_prompt": [
+    "nsfw",
+    "low quality",
+    "distorted face",
+    "bad hands",
+    "missing fingers",
+    "extra limbs",
+    "harsh shadows",
+    "oversaturated",
+    "cartoon",
+    "illustration",
+    "messy background"
+  ]
+}
+```
+
+https://gemini.google.com/share/f9bc1a31939c
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/8c6e668d-3c40-4675-ba2e-0862c9cde302" />
+
+
+```json
+{
+  "image_generation_prompt": {
+    "subject": {
+      "demographics": "Young Asian woman, around 20 years old, beautiful and cute aesthetics",
+      "hair": "Medium-length black hair, loose waves, see-through bangs, glossy texture",
+      "expression": "Looking down at the food, focused, natural candid expression",
+      "pose": "Sitting on a transparent chair, holding a white takeout container in left hand, holding a black plastic fork in right hand"
+    },
+    "outfit": {
+      "top": "White short-sleeved knit sweater, puff sleeves, ribbed texture, black piping details on collar and cuffs, black 'DD' or 'II' monogram logo on the chest",
+      "bottom": "Grey washed denim pants or skirt",
+      "accessories": "Silver chain necklace with a pendant, thin bracelet, black crossbody mini bag with a black chain strap"
+    },
+    "props_and_food": {
+      "food_item": "Chocolate glazed donut or pastry topped with mini marshmallows, pretzels, and blue icing drizzle",
+      "container": "White square styrofoam or biodegradable takeout box",
+      "utensil": "Black plastic fork"
+    },
+    "environment": {
+      "location": "Trendy industrial-style cafe or art gallery space",
+      "background_wall": "Concrete wall with graffiti text 'WE PAINT LOUDER THAN YOU TALK'",
+      "decor": "Colorful neon tube lights (pink, yellow, blue, red) arranged in 'X' shapes or abstract lines on the floor/wall",
+      "shelves": "Display shelf with colorful art toys and vinyl figurines (like Bearbricks) in the background",
+      "furniture": "Clear acrylic 'ghost' chair, black leather sofa visible on the side"
+    },
+    "technical_specs": {
+      "camera_angle": "Medium shot, slightly high angle (eye-level to slightly above)",
+      "lighting": "Soft indoor ambient lighting mixed with colorful background neon glow, diffuse reflections on the plastic chair",
+      "style": "Photorealistic, high quality, candid lifestyle photography, Instagram aesthetic, sharp focus on subject, slight bokeh in background",
+      "color_palette": "White, black, grey, with pops of neon pink, blue, and yellow"
+    }
+  }
+}
+```
+
+https://gemini.google.com/share/da8427879497
+
+<img width="765" height="1024" alt="image" src="https://github.com/user-attachments/assets/a2e03c0f-8c44-4690-bc35-85d9128f9eba" />
+
+```json
+{
+  "project_name": "Cafe_Candid_Portrait",
+  "prompt_content": {
+    "subject": {
+      "description": "Young Japanese woman with a natural, elegant aesthetic.",
+      "hair": "Long, straight brown hair with light texture and airy bangs (see-through bangs), backlighting from the window creating a soft halo effect.",
+      "apparel": "Sleeveless light beige or greige mock-neck top (ribbed knit texture), simple and sophisticated.",
+      "accessories": "Rectangular face wrist watch with a leather strap on the left wrist, a simple gold ring on the ring finger.",
+      "pose": "Candid moment, covering her mouth and lower face with both hands in a shy or laughing gesture. Shoulders relaxed. Looking slightly away from the camera towards the right."
+    },
+    "environment": {
+      "location": "Upscale hotel lounge or modern cafe interior.",
+      "background": "Blurred background (bokeh) showing a corridor, modern ceiling lights, and other indistinct patrons. Depth of field emphasizes the subject.",
+      "foreground": "A round black table.",
+      "lighting": "Strong natural light source from a large window on the left side, creating soft shadows on the face and highlights on the hair. Bright and airy atmosphere."
+    },
+    "props": {
+      "drink": "A tall glass containing a layered beverage (ombre drink). Bottom layer is vivid purple/blue, top layer is milky white. Includes a black straw and a long spoon. Ice cubes visible."
+    },
+    "style": {
+      "aesthetic": "Photorealistic, influencer lifestyle photography, candid shot, girlfriend POV, high resolution, 8k.",
+      "camera_angle": "Eye-level, slightly side-profile.",
+      "film_look": "Soft contrast, natural skin tones, daylight white balance."
+    }
+  },
+  "technical_parameters": {
+    "aspect_ratio": "3:4",
+    "lighting_style": "Side lighting, soft daylight",
+    "focus": "Sharp focus on eyes and hands, shallow depth of field"
+  }
+}
+```
+
+https://gemini.google.com/share/aedb99c24324
+
+<img width="765" height="1024" alt="image" src="https://github.com/user-attachments/assets/a10779e4-897b-46d3-b9b2-89f93abf1cbf" />
+
+
+```json
+{
+  "model_config": {
+    "model_name": "Nano Banana Pro (Gemini 3 Pro Image)",
+    "version": "latest",
+    "aspect_ratio": "3:4"
+  },
+  "image_generation_prompt": {
+    "subject": {
+      "description": "A young Asian woman, likely in her early 20s",
+      "hair": "Dark brown or black hair, tied back or updo, with see-through bangs (wispy bangs) framing the face",
+      "expression": "Soft smile, looking directly at the camera, charming and friendly gaze",
+      "pose": "Selfie angle, taking a photo with one hand (off-screen), the other hand (left hand) is gently touching her cheek/jawline in a cute gesture",
+      "accessories": "Silver Apple Watch style smartwatch with a metallic mesh band on the left wrist"
+    },
+    "clothing": {
+      "top": "Bright red knitted sweater, crew neck, slight puff sleeves or voluminous shoulder design",
+      "details": "Black strap visible on the shoulder (likely a bag strap)"
+    },
+    "environment": {
+      "setting": "Outdoor night scene, likely a park or street",
+      "background": "Dark background with blurred warm string lights (bokeh effect), suggesting illuminations or festive lighting on trees"
+    },
+    "style": {
+      "aesthetic": "Realistic, candid selfie, social media style (Instagram/TikTok vibe), slight film grain",
+      "lighting": "Low light photography, face illuminated by soft ambient light or screen light, high contrast between subject and dark background",
+      "camera_angle": "Close-up, eye-level, slightly tilted"
+    }
+  },
+  "technical_parameters": {
+    "quality": "High resolution, photorealistic, 8k",
+    "focus": "Sharp focus on the face and eyes, shallow depth of field (blurred background)"
+  }
+}
+```
+
+https://gemini.google.com/share/05e4da2bada9
+
+<img width="825" height="1024" alt="image" src="https://github.com/user-attachments/assets/b558bc67-8a78-4db4-afee-b61c0041af95" />
+
+
+```json
+{
+  "prompt_configuration": {
+    "model": "Nano Banana Pro (Gemini 3 Pro Image)",
+    "target_aspect_ratio": "4:5",
+    "style_preset": "Photorealistic / Lifestyle"
+  },
+  "positive_prompt": {
+    "subject": {
+      "demographics": "Young Asian female, likely in her 20s, with clear fair skin.",
+      "hair": "Long, straight, sleek light brown hair, resting over shoulders.",
+      "expression": "Gentle, soft smile, looking directly at the camera, head slightly tilted, resting chin on right hand.",
+      "clothing": "White off-the-shoulder chunky knit sweater (ribbed texture), showing collarbones.",
+      "accessories": "Black thick-rimmed eyeglasses hanging from the neckline of the sweater. A thin, delicate gold necklace."
+    },
+    "action_and_pose": {
+      "body": "Sitting at a cafe table, upper body shot. Leaning slightly forward with right elbow on the table.",
+      "interaction": "Relaxed pose, enjoying a brunch."
+    },
+    "food_and_props": {
+      "table_surface": "White marble or light stone texture table.",
+      "foreground_food": "A silver metal bucket overflowing with thin shoestring french fries, topped with powdered cheese or seasoning.",
+      "background_food": "A plate featuring Eggs Benedict topped with sliced black truffles, accompanied by a fresh kale salad.",
+      "drinks": "Clear water glasses with herbs or greenery inside.",
+      "other": "Silver cutlery, napkins, smart phone on the table corner."
+    },
+    "environment": {
+      "location": "Trendy upscale cafe interior, window seat.",
+      "background_left": "Concrete textured wall with climbing green ivy plants and a warm globe wall lamp.",
+      "background_right": "Large window with sheer semi-transparent curtains, letting in soft daylight. Hints of street view outside (blurred)."
+    },
+    "lighting_and_atmosphere": {
+      "quality": "Soft natural daylight coming from the right window (side lighting), creating gentle highlights on the face and hair.",
+      "mood": "Elegant, airy, cozy, sophisticated, Instagram-worthy, high-key lighting.",
+      "color_palette": "White, cream, green, warm browns, natural tones."
+    },
+    "technical_specs": {
+      "camera": "High-end DSLR, 85mm lens.",
+      "focus": "Sharp focus on the woman's face and eyes, slightly shallow depth of field blurring the background.",
+      "resolution": "8k, highly detailed textures (knit fabric, food texture, skin pores)."
+    }
+  },
+  "negative_prompt": [
+    "low quality",
+    "blurry",
+    "distorted face",
+    "bad hands",
+    "missing fingers",
+    "extra fingers",
+    "unnatural lighting",
+    "dark shadows",
+    "cartoon",
+    "illustration",
+    "oversaturated",
+    "messy food"
+  ]
+}
+```
+
+https://gemini.google.com/share/8be8befc5903
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/3262dfca-d3ec-473c-b093-b94f0077b290" />
+
+
+```json
+{
+  "prompt_version": "v2.5_detailed",
+  "subject": {
+    "demographics": "Young Japanese woman, approx 20-22 years old, natural beauty, cute and friendly appearance",
+    "hair": "Long black hair, slightly messy natural waves, falling over shoulders, soft texture, parted in the middle",
+    "face": {
+      "skin": "Fair complexion, dewy skin texture, natural makeup, slight shine on forehead (realistic lighting)",
+      "eyes": "Dark brown eyes, double eyelids, looking directly at camera, sparkling",
+      "expression": "Gentle sweet smile, head slightly tilted to the right, relaxed and happy vibe"
+    },
+    "body": "Leaning forward, upper body shot"
+  },
+  "apparel": {
+    "clothing": "Black sleeveless top or short-sleeved t-shirt, simple design",
+    "accessories": [
+      "Silver metal link watch on left wrist (prominent)",
+      "Simple thin gold ring on left hand ring finger"
+    ]
+  },
+  "pose_and_action": {
+    "hand_gesture": "Left hand raised near face, palm open facing camera, waving gesture or showing number 5, fingers naturally spread",
+    "posture": "Resting on a light wooden table, relaxed posture, POV (Point of View) angle"
+  },
+  "environment": {
+    "location": "Casual Japanese restaurant or Izakaya (pub) interior",
+    "foreground": "Light wood grain table, a glass of clear drink with ice (water or lemon sour) on the bottom left",
+    "background": "Blurred background (bokeh), beige or light grey booth seating (sofa), restaurant lighting context"
+  },
+  "technical_settings": {
+    "style": "Photorealistic, Raw photo, Smartphone photography aesthetic, Candid shot",
+    "lighting": "Bright indoor overhead lighting, soft directional light hitting the face, slight shadow cast by the hand",
+    "camera_angle": "Eye-level or slightly high angle, close-up portrait",
+    "quality_tags": "8k resolution, highly detailed, sharp focus on face and hand, high fidelity, Fujifilm color science"
+  },
+  "negative_prompt": [
+    "low quality",
+    "blurry",
+    "distorted hands",
+    "extra fingers",
+    "missing fingers",
+    "unnatural skin texture",
+    "heavy makeup",
+    "dark image",
+    "cartoon",
+    "illustration",
+    "3d render"
+  ]
+}
+```
+
+https://gemini.google.com/share/d73d15f98b46
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/5487300e-bad3-454e-80a9-56ac9afc9a44" />
+
+
+```json
+{
+  "action": "generate_image",
+  "params": {
+    "prompt": {
+      "subject": {
+        "demographics": "Young East Asian woman, roughly 20s, soft and elegant facial features, pale skin tone.",
+        "hair": {
+          "style": "Chin-length blunt bob (tassle cut), sharp straight lines.",
+          "texture": "Sleek, wet/oiled hair styling, glossy finish.",
+          "details": "Long see-through bangs (wispy bangs) falling over the eyes, dark brown to natural black color."
+        },
+        "expression": "Calm, neutral to slight smile, looking away to the right (side profile view).",
+        "clothing": "Black ribbed knit cardigan with a collar (polo style), buttoned up, fitted silhouette."
+      },
+      "environment": {
+        "location": "Modern upscale hair salon or industrial-chic studio.",
+        "elements": [
+          "Distinctive gold reflective partitions or yellow glass panels.",
+          "Exposed industrial ceiling pipes (silver/metallic).",
+          "Mirrors and salon chairs in the blurred background.",
+          "Concrete or grey flooring."
+        ]
+      },
+      "lighting_and_atmosphere": {
+        "lighting": "Soft diffuse indoor lighting, mix of cool studio light and warm reflections from gold panels.",
+        "atmosphere": "Stylish, trendy, clean, K-beauty/J-beauty aesthetic.",
+        "colors": "Dominant black (subject), gold/yellow (background accents), silver (pipes), skin tones."
+      },
+      "photography_technical": {
+        "shot_type": "Medium shot, portrait.",
+        "angle": "Eye-level, 3/4 side profile.",
+        "focus": "Sharp focus on the face and hair, shallow depth of field (bokeh) on the background.",
+        "quality": "Photorealistic, 8k resolution, high fidelity, shot on 85mm portrait lens."
+      }
+    },
+    "negative_prompt": [
+      "frizzy hair",
+      "dry hair",
+      "messy background",
+      "looking at camera",
+      "bright neon lights",
+      "cartoon",
+      "illustration",
+      "distorted face",
+      "low resolution"
+    ]
+  }
+}
+```
+
+https://gemini.google.com/share/a6527011ed9f
+
+<img width="765" height="1024" alt="image" src="https://github.com/user-attachments/assets/a7d3e49b-79f5-470d-9cdd-518c430f75ac" />
+
+
+```json
+{
+  "prompt_data": {
+    "subject": {
+      "demographics": "Young Japanese woman, early 20s",
+      "appearance": "Long wavy brown hair, side part, fair skin, rosy cheeks, natural makeup, pink lipstick, beautiful bright smile showing white teeth",
+      "apparel": "Black turtleneck knit sweater (high neck), gold hoop earrings, thin gold rings on fingers",
+      "pose": "Leaning slightly forward towards the camera, making a V-sign (peace sign) near her left cheek, head slightly tilted, engaging eye contact"
+    },
+    "environment": {
+      "location": "Busy cafe interior, Starbucks-style coffee shop",
+      "background": "Brick column, glass windows reflecting night lights, blurred people in background (bokeh), warm indoor artificial lighting",
+      "foreground": "Wooden table, white paper coffee cups with cardboard sleeves (Starbucks style), plates with partially eaten strawberry cake and chocolate cake, plastic forks"
+    },
+    "technical_specs": {
+      "style": "Candid smartphone photography, selfie style, Instagram snapshot, realistic texture",
+      "lighting": "Soft warm cafe lighting, slight reflection on skin",
+      "composition": "Close-up portrait, slightly high angle, focus on face, shallow depth of field",
+      "quality": "8k resolution, highly detailed, sharp focus, photorealistic"
+    }
+  },
+  "negative_prompt": "blurry face, low quality, distorted fingers, extra fingers, bad anatomy, missing limbs, distorted eyes, text, watermark, logo, messy food, dark shadows, gloom",
+  "aspect_ratio": "3:4"
+} 
+```
